@@ -68,14 +68,14 @@ public class CardTrick {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
 
-        System.out.println("My name is YourName");
+        System.out.println("My name is Hussain");
         System.out.println();
 
         System.out.println("My career ambitions:");
-        System.out.println("-- Your career ambitions here");
+        System.out.println("I want to start a venture in Tourism Industry and want to upkill my programming skills");
 
         System.out.println("My hobbies:");
-        System.out.println("-- Your hobbies here");
+        System.out.println("Travelling");
 
         System.out.println();
     }
